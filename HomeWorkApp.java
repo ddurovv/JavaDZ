@@ -24,7 +24,7 @@ public static void checkSumSign() {
         }
 }
     public static void printColor() {
-        int value = 123;
+        int value = 122;
         if (value <= 0) {
             System.out.println("Красный");
         } else if (value <= 100) {
